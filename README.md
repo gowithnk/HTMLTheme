@@ -1,7 +1,6 @@
 
 # Quick start
 Several quick start options are available:
-* Clone the repo: git clone https://github.com/dropways/deskapp.git
 * Install with npm: 
   `npm install deskapp`
 
@@ -33,13 +32,6 @@ Several quick start options are available:
 * Sweetalert2
 * Switchery
 * Timedropper
-
-## Demo link
-A fully functional demo is available at
-
-- demo 1 https://dropways.github.io/deskapp/
-- demo 2 https://deskapp-dashboard.herokuapp.com/
-- demo 3 https://deskapp.netlify.app/
 
 ## Bugs Reports
 Have a bug or a feature request? Please open a new issue.
